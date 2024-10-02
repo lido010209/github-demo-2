@@ -1,0 +1,14 @@
+git branch <branch name>
+git switch <branch name>
+
+-> switch to testing: git switch testing
+
+** confirm branch of git**
+git log --oneline
+git log --oneline --graph --all
+
+>> Put tag
+git tag <tag name> <commit id>
+
+
+
